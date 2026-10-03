@@ -1,0 +1,31 @@
+video_id,title,channel,category,published_date,views,likes,comments,duration,country,engagement_rate,total_engagement,year,month
+V001,Python for Beginners,Code Academy,Education,2026-01-05,125000,8200,540,10:25,India,6.992,8740,2026,1
+V002,SQL Complete Tutorial,Data World,Education,2026-01-12,210000,14500,980,18:40,India,7.371428571428572,15480,2026,1
+V003,PySpark Tutorial,Data Engineering Hub,Technology,2026-01-20,185000,11200,760,22:15,USA,6.4648648648648654,11960,2026,1
+V004,Learn Pandas,Code Academy,Education,2026-02-03,98000,6100,420,14:30,India,6.653061224489797,6520,2026,2
+V005,Apache Spark Architecture,Data Engineering Hub,Technology,2026-02-11,265000,17800,1250,25:10,USA,7.188679245283019,19050,2026,2
+V006,Python Functions Explained,Code Academy,Education,2026-02-18,87000,5400,310,09:45,India,6.5632183908045985,5710,2026,2
+V007,Data Engineering Roadmap,Tech Career,Career,2026-03-02,320000,22100,1850,16:20,India,7.484375,23950,2026,3
+V008,Databricks Beginner Tutorial,Data Engineering Hub,Technology,2026-03-10,410000,28500,2140,28:35,USA,7.473170731707317,30640,2026,3
+V009,ETL Pipeline with Python,Data World,Technology,2026-03-17,195000,13200,870,20:05,UK,7.2153846153846155,14070,2026,3
+V010,PostgreSQL Tutorial,Data World,Education,2026-03-25,155000,9400,650,19:50,India,6.483870967741935,10050,2026,3
+V011,Airflow DAG Tutorial,Data Engineering Hub,Technology,2026-04-04,275000,19000,1420,24:15,USA,7.425454545454545,20420,2026,4
+V012,Kafka for Beginners,Data Engineering Hub,Technology,2026-04-12,230000,15100,990,21:40,USA,6.995652173913043,16090,2026,4
+V013,Data Lake vs Data Warehouse,Tech Career,Education,2026-04-19,145000,8800,590,13:25,India,6.475862068965517,9390,2026,4
+V014,Spark SQL Tutorial,Data Engineering Hub,Technology,2026-05-01,350000,24000,1760,23:55,Canada,7.359999999999999,25760,2026,5
+V015,Python File Handling,Code Academy,Education,2026-05-08,76000,4700,280,08:35,India,6.552631578947368,4980,2026,5
+V016,Azure Data Factory Tutorial,Cloud Data School,Technology,2026-05-15,290000,19500,1380,26:45,USA,7.199999999999999,20880,2026,5
+V017,Azure Data Lake Tutorial,Cloud Data School,Technology,2026-05-22,215000,14300,920,18:25,USA,7.079069767441861,15220,2026,5
+V018,Data Engineering Interview Questions,Tech Career,Career,2026-06-02,385000,26700,2300,31:10,India,7.532467532467532,29000,2026,6
+V019,Delta Lake Explained,Data Engineering Hub,Technology,2026-06-10,330000,22500,1640,20:50,USA,7.3151515151515145,24140,2026,6
+V020,Medallion Architecture,Data Engineering Hub,Technology,2026-06-18,450000,31800,2600,17:35,USA,7.644444444444444,34400,2026,6
+V021,Python Pandas Project,Code Academy,Education,2026-07-03,112000,7300,510,15:20,India,6.973214285714286,7810,2026,7
+V022,Build a Data Pipeline,Data World,Technology,2026-07-10,275000,18400,1290,27:30,UK,7.16,19690,2026,7
+V023,Data Warehouse Concepts,Tech Career,Education,2026-07-17,165000,10100,720,19:05,India,6.557575757575758,10820,2026,7
+V024,Real Time Data Streaming,Data Engineering Hub,Technology,2026-07-25,305000,20900,1570,29:40,USA,7.367213114754098,22470,2026,7
+V025,End-to-End Data Engineering Project,Cloud Data School,Technology,2026-08-05,520000,38200,3150,42:15,USA,7.9519230769230775,41350,2026,8
+V026,Git and GitHub for Data Engineers,Tech Career,Career,2026-08-12,135000,8200,480,12:40,India,6.42962962962963,8680,2026,8
+V027,Advanced SQL Queries,Data World,Education,2026-08-19,240000,16100,1110,24:35,UK,7.170833333333333,17210,2026,8
+V028,Spark Performance Optimization,Data Engineering Hub,Technology,2026-08-26,295000,19800,1450,30:20,Canada,7.203389830508475,21250,2026,8
+V029,Cloud Data Engineering Roadmap,Cloud Data School,Career,2026-09-05,275000,17600,1280,21:55,USA,6.865454545454545,18880,2026,9
+V030,Complete Data Engineering Course,Tech Career,Education,2026-09-15,610000,45500,3900,55:30,India,8.098360655737705,49400,2026,9
